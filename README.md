@@ -1,2 +1,2 @@
 # kakao-clone
-practicing making kakao
+making kakao-clone
